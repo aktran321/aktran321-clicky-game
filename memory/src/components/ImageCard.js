@@ -4,7 +4,7 @@ function ImageCard (props) {
     return(
         <div className = "card hvr-grow">
             <div className = "img-container">
-                <img alt={props.name} src={props.image}/>
+                <img id={props.id} alt={props.name} src={props.image}/>
             </div>
         </div>
     )
