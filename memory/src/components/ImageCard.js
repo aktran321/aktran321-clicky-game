@@ -1,12 +1,15 @@
 import React from "react";
 import "./style.css"
-function ImageCard (props) {
-    return(
+const ImageCard = props => (
+    
         <div className = "card hvr-grow">
             <div className = "img-container">
-                <img id={props.id} alt={props.name} src={props.image}/>
+                <img id={props.id} alt={"This is image " + props.name} 
+                src={props.image} 
+                onClick={() => props.checkIfClicked(props.id)}
+                />
             </div>
         </div>
-    )
-}
+    );
+
 export default ImageCard;
