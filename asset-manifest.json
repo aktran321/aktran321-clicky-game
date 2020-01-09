@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aktran321-clicky-game/static/css/main.51a8e340.chunk.css",
+    "main.css": "/aktran321-clicky-game/static/css/main.cb571a8f.chunk.css",
     "main.js": "/aktran321-clicky-game/static/js/main.a40f25f2.chunk.js",
     "main.js.map": "/aktran321-clicky-game/static/js/main.a40f25f2.chunk.js.map",
     "runtime-main.js": "/aktran321-clicky-game/static/js/runtime-main.0067b653.js",
@@ -8,14 +8,14 @@
     "static/js/2.4610239f.chunk.js": "/aktran321-clicky-game/static/js/2.4610239f.chunk.js",
     "static/js/2.4610239f.chunk.js.map": "/aktran321-clicky-game/static/js/2.4610239f.chunk.js.map",
     "index.html": "/aktran321-clicky-game/index.html",
-    "precache-manifest.3dda07fc769a803bb724e9ac6717be32.js": "/aktran321-clicky-game/precache-manifest.3dda07fc769a803bb724e9ac6717be32.js",
+    "precache-manifest.5f5565961d9cd65cd5f9a17b39a5100f.js": "/aktran321-clicky-game/precache-manifest.5f5565961d9cd65cd5f9a17b39a5100f.js",
     "service-worker.js": "/aktran321-clicky-game/service-worker.js",
-    "static/css/main.51a8e340.chunk.css.map": "/aktran321-clicky-game/static/css/main.51a8e340.chunk.css.map"
+    "static/css/main.cb571a8f.chunk.css.map": "/aktran321-clicky-game/static/css/main.cb571a8f.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.0067b653.js",
     "static/js/2.4610239f.chunk.js",
-    "static/css/main.51a8e340.chunk.css",
+    "static/css/main.cb571a8f.chunk.css",
     "static/js/main.a40f25f2.chunk.js"
   ]
 }

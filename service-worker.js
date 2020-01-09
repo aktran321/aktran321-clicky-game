@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aktran321-clicky-game/precache-manifest.3dda07fc769a803bb724e9ac6717be32.js"
+  "/aktran321-clicky-game/precache-manifest.5f5565961d9cd65cd5f9a17b39a5100f.js"
 );
 
 self.addEventListener('message', (event) => {
