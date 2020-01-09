@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/aktran321-clicky-game/static/css/main.cb571a8f.chunk.css",
-    "main.js": "/aktran321-clicky-game/static/js/main.a40f25f2.chunk.js",
-    "main.js.map": "/aktran321-clicky-game/static/js/main.a40f25f2.chunk.js.map",
-    "runtime-main.js": "/aktran321-clicky-game/static/js/runtime-main.0067b653.js",
-    "runtime-main.js.map": "/aktran321-clicky-game/static/js/runtime-main.0067b653.js.map",
-    "static/js/2.4610239f.chunk.js": "/aktran321-clicky-game/static/js/2.4610239f.chunk.js",
-    "static/js/2.4610239f.chunk.js.map": "/aktran321-clicky-game/static/js/2.4610239f.chunk.js.map",
-    "index.html": "/aktran321-clicky-game/index.html",
-    "precache-manifest.5f5565961d9cd65cd5f9a17b39a5100f.js": "/aktran321-clicky-game/precache-manifest.5f5565961d9cd65cd5f9a17b39a5100f.js",
-    "service-worker.js": "/aktran321-clicky-game/service-worker.js",
-    "static/css/main.cb571a8f.chunk.css.map": "/aktran321-clicky-game/static/css/main.cb571a8f.chunk.css.map"
+    "main.css": "/memory/static/css/main.cb571a8f.chunk.css",
+    "main.js": "/memory/static/js/main.a40f25f2.chunk.js",
+    "main.js.map": "/memory/static/js/main.a40f25f2.chunk.js.map",
+    "runtime-main.js": "/memory/static/js/runtime-main.c3476345.js",
+    "runtime-main.js.map": "/memory/static/js/runtime-main.c3476345.js.map",
+    "static/js/2.4610239f.chunk.js": "/memory/static/js/2.4610239f.chunk.js",
+    "static/js/2.4610239f.chunk.js.map": "/memory/static/js/2.4610239f.chunk.js.map",
+    "index.html": "/memory/index.html",
+    "precache-manifest.660fdfb411e59d13db76f4851e5ef64e.js": "/memory/precache-manifest.660fdfb411e59d13db76f4851e5ef64e.js",
+    "service-worker.js": "/memory/service-worker.js",
+    "static/css/main.cb571a8f.chunk.css.map": "/memory/static/css/main.cb571a8f.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0067b653.js",
+    "static/js/runtime-main.c3476345.js",
     "static/js/2.4610239f.chunk.js",
     "static/css/main.cb571a8f.chunk.css",
     "static/js/main.a40f25f2.chunk.js"
